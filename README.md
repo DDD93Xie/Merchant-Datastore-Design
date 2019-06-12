@@ -1,1 +1,1 @@
-# Relational_Database
+#Merchant Datastore Design (Python, MySQL, R)
