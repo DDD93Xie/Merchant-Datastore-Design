@@ -1,1 +1,1 @@
-#Merchant Datastore Design (Python, MySQL, R)
+#Merchant Datastore Design
